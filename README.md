@@ -21,4 +21,4 @@ streamlit run main.py
 ```
 
 #### Dashboard Example: 
-![Dashboard](components/img/image.png "Dup Dashboard")
+![Dashboard](components/img/sample.gif "Dup Dashboard")
